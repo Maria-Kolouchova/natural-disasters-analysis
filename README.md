@@ -20,7 +20,7 @@ Exploratory data analysis of global natural disasters using Our World in Data / 
 Our World in Data – Natural Disasters (EM-DAT, CRED / UCLouvain, 2024)  
 <https://ourworldindata.org/natural-disasters>
 
-## 🧠 Methods (brief)
+## Methods (brief)
 - Cleaning: NA→0 where “no recorded deaths”; death columns cast to int
 - Combined categories for clarity: **Extreme Weather & Temperature** (storms, cyclones, heat/cold waves)
 - Yearly aggregation for deaths and binary event counts (frequency)
@@ -34,5 +34,5 @@ Our World in Data – Natural Disasters (EM-DAT, CRED / UCLouvain, 2024)
 ## Citation
 Data sources: EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Annual number of deaths from droughts – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data].
 
-## 📬 Contact
+## Contact
 Maria Kolouchova — feel free to reach out on LinkedIn.
