@@ -1,6 +1,9 @@
 # Natural Disasters Analysis (1900–2024)
 Natural disasters (1900–2024): trends in deaths & events, with population normalisation
-
+<hr>
+html link - https://maria-kolouchova.github.io/natural-disasters-analysis
+<br>
+<br>
 Exploratory data analysis of global natural disasters using Our World in Data / EM-DAT:
 - Which disaster types caused the most deaths?
 - How did deaths and event frequency change over time?
