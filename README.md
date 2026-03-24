@@ -1,5 +1,5 @@
-# Natural Disasters Analysis (1900–2024)
-Natural disasters (1900–2024): trends in deaths & events, with population normalisation
+# Natural Disasters Analysis (1900–2025)
+Natural disasters (1900–2025): trends in deaths & events, with population normalisation
 <hr>
 html link - https://maria-kolouchova.github.io/natural-disasters-analysis
 <br>
@@ -20,14 +20,14 @@ Exploratory data analysis of global natural disasters using Our World in Data / 
 - `notebook.html` – rendered HTML version for easy viewing
 
 ## Data Source
-Our World in Data – Natural Disasters (EM-DAT, CRED / UCLouvain, 2024)  
+Data sources: EM-DAT, CRED / UCLouvain – processed by Our World in Data. “Number of deaths from disasters” [dataset]. EM-DAT, CRED / UCLouvain [original data].  
 <https://ourworldindata.org/natural-disasters>
 
 ## Methods (brief)
 - Cleaning: NA→0 where “no recorded deaths”; death columns cast to int
-- Combined categories for clarity: **Extreme Weather & Temperature** (storms, cyclones, heat/cold waves)
+- Combined categories for clarity: **Extreme Weather** (storms, cyclones, heat/cold waves)
 - Yearly aggregation for deaths and binary event counts (frequency)
-- Population normalisation via interpolated world population (1900–2024)
+- Population normalisation via interpolated world population (1900–2025)
 - Visuals: bar (totals), line (deaths over time), scatter (events per year), decade bar (% population)
 
 ## How to View
@@ -35,7 +35,7 @@ Our World in Data – Natural Disasters (EM-DAT, CRED / UCLouvain, 2024)
 - Use nbviewer for the notebook: paste the GitHub `ipynb` link at https://nbviewer.org
 
 ## Citation
-Data sources: EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Annual number of deaths from droughts – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data].
+Data sources: EM-DAT, CRED / UCLouvain – processed by Our World in Data. “Number of deaths from disasters” [dataset]. EM-DAT, CRED / UCLouvain [original data].
 
 ## Contact
 Maria Kolouchova — feel free to reach out on LinkedIn.
