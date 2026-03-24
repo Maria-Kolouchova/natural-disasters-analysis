@@ -16,8 +16,9 @@ Exploratory data analysis of global natural disasters using Our World in Data / 
 - Some hazards (e.g., **wildfires**, **wet mass movements**) show **rising frequency** but irregular fatality spikes.
 
 ## Repository Contents
-- `notebook.ipynb` – main analysis (EDA, plots, summary table)
-- `notebook.html` – rendered HTML version for easy viewing
+- `analysis.ipynb` – full analysis with code
+- `report.html` – full report
+- `report.pdf` – full report
 
 ## Data Source
 Data sources: EM-DAT, CRED / UCLouvain – processed by Our World in Data. “Number of deaths from disasters” [dataset]. EM-DAT, CRED / UCLouvain [original data].  
