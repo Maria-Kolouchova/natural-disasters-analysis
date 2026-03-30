@@ -13,7 +13,7 @@ Note: In this analysis, “event frequency” counts only events with at least o
 * Large historical toll from droughts and floods, with a clear break around ~1960.
 * Since ~1960: sharp rise in fatal event frequency, especially extreme weather and floods.
 * Relative to the global population, the average % deaths per year declined over time (population growth + preparedness).
-* Some hazards (e.g., wildfires, wet mass movements) show rising frequency of fatal events, but with irregular fatality spikes.
+* Some hazards (e.g., wildfires, wet mass movements) show rising frequency of fatal events, with irregular spikes in the early 20th century and more consistent fatalities in recent decades.
 
 
 **Repository Contents**
